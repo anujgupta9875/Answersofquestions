@@ -1,0 +1,87 @@
+Ans 2
+void array(int arr[],int n)
+
+for(int i=0; i<n; i++)
+cout<< array ""
+than we replace the array acording to conditions
+
+void updateArr(ll arr[], int n) 
+{ 
+    for (int i = 0; i < n; i++) { 
+if 0 is at add place
+arr[i]==0
+if 2 is at even place
+a[i]==0
+
+Ans 3
+
+int count(string s, char c)
+int countv=0
+for (int i=0; i<s.length();i++)
+if(s[i]==c)
+countv++
+
+if (c== Big alphabet)
+than c==2
+return countv;
+}
+
+
+
+Ans 4
+
+string replace(string s, char c1 , char c2)
+{ int l= s.length();
+for(int i=0; i<l; i++)
+if string of i fiest word is s[i]==a
+than s[i]== mango
+or 
+if string of i last word is s[i]==d
+than s[i]== mango
+
+if string i is having word o and u than
+
+string[i]= toupper(s[i])
+
+else if
+string[i]== e and f
+than count the position og e and f 	
+if position of e is < f than
+string[i] = toupper e
+else if
+string[i]= toupper f
+
+return string 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ans 6
+
+int main()
+{
+int minutes;
+int seconds;
+int Totaltime;
+cout<<"count down in minute andsecound"<<endl;
+cin>>minutes>>seconds;
+for(sec=0; s>=0; s--)
+{
+if(s ==0)
+Totaltime = m*60-2;
+for(int min = total; total>=0; total--)
+cout<<"Total time remaining"<<endl;
+}
